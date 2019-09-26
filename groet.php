@@ -1,3 +1,4 @@
 <?php
+echo "Goedemiddag\n";
 $input = readline ();
-echo $input;
+echo "de gebruiker zegt : ".$input;
